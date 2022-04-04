@@ -90,9 +90,6 @@
 .on{
   background-color: rgb(246, 255, 94);
 }
-.galleryAni{
-  transition: all 0.3s;
-}
 
 .container .inner-container .index .sections .section.sec2{
   display: flex;
@@ -124,7 +121,7 @@
 
 @media only screen and (max-width:768px) {
   .container .inner-container .index .sections .section.sec1 .sec-con{
-    height: 500px;
+    height: 300px;
   }
   .container .inner-container .index .sections .section.sec2 .sec-con{
     padding: 0 10px;
@@ -137,7 +134,7 @@
 
 @media only screen and (max-width:640px) {
   .container .inner-container .index .sections .section.sec1 .sec-con{
-    height: 400px;
+    height: 200px;
   }
   .container .inner-container .index .sections .section.sec2 .sec-con{
     padding: 10px 20px;
